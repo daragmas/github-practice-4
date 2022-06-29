@@ -1,0 +1,1 @@
+console.log('Mr. New Vegas loves you.')
